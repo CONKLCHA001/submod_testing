@@ -1,3 +1,6 @@
 [submodule "app"]
 	path = app
 	url = https://github.com/AaronTheBaron15/app.git
+[submodule "infosec"]
+	path = infosec
+	url = https://github.com/derozic/infosec.git
